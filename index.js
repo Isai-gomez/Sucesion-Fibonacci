@@ -6,7 +6,7 @@ const pintar = () => {
 // se ejecuta cuando se pulsa el boton cal
 document.getElementById("cal").addEventListener("click", pintar);
 
-// funcion que devuelve una lista con la secuncia de fibonacci
+// funcion que devuelve una lista con la secuencia de fibonacci
 const fibonaci = n => {
   let v1 = 0,
     v2 = 1,
